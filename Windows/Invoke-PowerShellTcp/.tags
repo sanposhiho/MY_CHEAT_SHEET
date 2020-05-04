@@ -7,6 +7,5 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/6d353f7/
-hydra	README.md	/^# hydra$/;"	c
-usage	README.md	/^## usage$/;"	s	chapter:hydra
-その他テクニック	README.md	/^## その他テクニック$/;"	s	chapter:hydra
+Invoke-PowerShellTcp(nishang)	README.md	/^# Invoke-PowerShellTcp(nishang)$/;"	c
+Usage	README.md	/^# Usage$/;"	c
