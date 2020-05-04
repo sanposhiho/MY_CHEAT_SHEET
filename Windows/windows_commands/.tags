@@ -11,6 +11,7 @@ Windows	README.md	/^# Windows$/;"	c
 fileの発見	README.md	/^### fileの発見$/;"	S	chapter:Windows
 fileをDL	README.md	/^### fileをDL$/;"	S	chapter:Windows
 powershellでプロセス実行	README.md	/^### powershellでプロセス実行$/;"	S	chapter:Windows
+serviceのリスタート	README.md	/^### serviceのリスタート$/;"	S	chapter:Windows
 スクリプト実行	README.md	/^### スクリプト実行$/;"	S	chapter:Windows
 怪しい特権	README.md	/^#### 怪しい特権$/;"	t	subsection:Windows""現在のユーザーの権限一覧
 現在のユーザーの権限一覧	README.md	/^### 現在のユーザーの権限一覧$/;"	S	chapter:Windows

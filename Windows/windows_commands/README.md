@@ -12,6 +12,12 @@
 ### powershellでプロセス実行
 `powershell "Start-Process "sheshe.exe""`
 
+### serviceのリスタート
+```
+sc stop AdvancedSystemCareService9
+sc start AdvancedSystemCareService9
+```
+
 ### 現在のユーザーの権限一覧
 `whoami /priv`
 特権に関しては[こちら](https://www.exploit-db.com/papers/42556)参照
