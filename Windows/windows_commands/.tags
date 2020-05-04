@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/6d353f7/
+Windows	README.md	/^# Windows$/;"	c
+fileの発見	README.md	/^### fileの発見$/;"	S	chapter:Windows
+fileをDL	README.md	/^### fileをDL$/;"	S	chapter:Windows
+powershellでプロセス実行	README.md	/^### powershellでプロセス実行$/;"	S	chapter:Windows
+スクリプト実行	README.md	/^### スクリプト実行$/;"	S	chapter:Windows
+怪しい特権	README.md	/^#### 怪しい特権$/;"	t	subsection:Windows""現在のユーザーの権限一覧
+現在のユーザーの権限一覧	README.md	/^### 現在のユーザーの権限一覧$/;"	S	chapter:Windows
