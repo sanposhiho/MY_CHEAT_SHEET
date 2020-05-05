@@ -1,0 +1,41 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/6d353f7/
+Invoke-PowerShellTcp(nishang)	Windows/Invoke-PowerShellTcp/README.md	/^# Invoke-PowerShellTcp(nishang)$/;"	c
+John	john_the_ripper/README.md	/^# John$/;"	c
+Other Technic	Windows/other_technic/README.md	/^# Other Technic$/;"	c
+PowerSploit	Windows/PowerSploit/README.md	/^# PowerSploit$/;"	c
+PowerUP.ps1	Windows/PowerSploit/README.md	/^## PowerUP.ps1$/;"	s	chapter:PowerSploit
+Samba	Windows/smb/README.md	/^# Samba$/;"	c
+Usage	Windows/Invoke-PowerShellTcp/README.md	/^# Usage$/;"	c
+Usage	Windows/winPEAS/README.md	/^# Usage$/;"	c
+Usage	Windows/windows-exploit-suggester/README.md	/^## Usage$/;"	s	chapter:windows-exploit-suggester
+Windows	Windows/windows_commands/README.md	/^# Windows$/;"	c
+example	john_the_ripper/README.md	/^# example$/;"	c
+fileの発見	Windows/windows_commands/README.md	/^### fileの発見$/;"	S	chapter:Windows
+fileをDL	Windows/windows_commands/README.md	/^### fileをDL$/;"	S	chapter:Windows
+hydra	hydra/README.md	/^# hydra$/;"	c
+my_cheat_sheet	README.md	/^# my_cheat_sheet$/;"	c
+nfs	Windows/smb/README.md	/^# nfs$/;"	c
+nmap script	Windows/smb/README.md	/^### nmap script$/;"	S	chapter:Samba
+nmap script	Windows/smb/README.md	/^### nmap script$/;"	S	chapter:nfs
+powershellでプロセス実行	Windows/windows_commands/README.md	/^### powershellでプロセス実行$/;"	S	chapter:Windows
+serviceのリスタート	Windows/windows_commands/README.md	/^### serviceのリスタート$/;"	S	chapter:Windows
+smbclient	Windows/smb/README.md	/^### smbclient$/;"	S	chapter:Samba
+smbget	Windows/smb/README.md	/^### smbget$/;"	S	chapter:Samba
+usage	hydra/README.md	/^## usage$/;"	s	chapter:hydra
+winPEAS	Windows/winPEAS/README.md	/^# winPEAS$/;"	c
+windows-exploit-suggester	Windows/windows-exploit-suggester/README.md	/^# windows-exploit-suggester$/;"	c
+その他テクニック	hydra/README.md	/^## その他テクニック$/;"	s	chapter:hydra
+スクリプト実行	Windows/windows_commands/README.md	/^### スクリプト実行$/;"	S	chapter:Windows
+参考になりそう	Windows/smb/README.md	/^### 参考になりそう$/;"	S	chapter:nfs
+引用符に囲まれていないファイル	Windows/other_technic/README.md	/^### 引用符に囲まれていないファイル$/;"	S	chapter:Other Technic
+怪しい特権	Windows/other_technic/README.md	/^### 怪しい特権$/;"	S	chapter:Other Technic
+怪しい特権	Windows/windows_commands/README.md	/^#### 怪しい特権$/;"	t	subsection:Windows""現在のユーザーの権限一覧
+現在のユーザーの権限一覧	Windows/windows_commands/README.md	/^### 現在のユーザーの権限一覧$/;"	S	chapter:Windows
