@@ -2,6 +2,6 @@
 
 - rockyou.txtをwordlistに
 
-# example
+# Usage
 
 `john --wordlist=/usr/share/wordlists/rockyou.txt pwd.hash`
