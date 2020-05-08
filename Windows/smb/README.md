@@ -2,10 +2,10 @@
 
 ### nmap script
 ファイル共有の一覧を列挙
-(smb-enum-shares.nse)[https://nmap.org/nsedoc/scripts/smb-enum-shares.html]
+[smb-enum-shares.nse](https://nmap.org/nsedoc/scripts/smb-enum-shares.html)
 
 リモートの Windows システム上のユーザーを列挙
-(smb-enum-users.nse)[https://nmap.org/nsedoc/scripts/smb-enum-users.html]
+[smb-enum-users.nse](https://nmap.org/nsedoc/scripts/smb-enum-users.html)
 
 ```
 nmap -p 445 --script=smb-enum-shares.nse,smb-enum-users.nse 10.10.162.244
