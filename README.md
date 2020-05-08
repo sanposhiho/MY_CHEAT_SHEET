@@ -1,6 +1,7 @@
 # MY CHEAT SHEET(Only Japanese)
 
 ペネトレーションテスト（Hack the Box, VulnHub）などを行う際に参考にしてください。
+
 アドバイス等ありましたら[Twitter(@さんぽし)](https://twitter.com/sanpo_shiho)までお願いします
 
 This is a cheat sheet in penetration testing.
@@ -23,3 +24,10 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 - [windows-exploit-suggester](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/windows-exploit-suggester)
 - [commands](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/windows_commands)
 - [Others](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/other_technic)
+
+### tools
+
+- [gobuster](https://github.com/sanposhiho/my_cheat_sheet/tree/master/gobuster)
+- [hydra](https://github.com/sanposhiho/my_cheat_sheet/tree/master/hydra)
+- [john_the_ripper](https://github.com/sanposhiho/my_cheat_sheet/tree/master/john_the_ripper)
+- [nmap](https://github.com/sanposhiho/my_cheat_sheet/tree/master/nmap)
