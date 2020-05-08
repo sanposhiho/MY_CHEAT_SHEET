@@ -7,7 +7,7 @@
 This is a cheat sheet in penetration testing.
 Please use it when hacking Hack the Box, VulnHub, etc.
 
-**悪用厳禁 Do NOT ABUSE**
+**悪用厳禁 DO NOT ABUSE**
 
 ## 目次（Contents）
 
