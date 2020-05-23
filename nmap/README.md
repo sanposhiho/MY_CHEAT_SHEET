@@ -1,7 +1,15 @@
 # nmap
 言わずと知れた
 
-### nmap scripts
+## nmap scripts
+
+### script 検索
+
+```
+ls /usr/share/nmap/scripts | grep ldap
+```
+
+### 種類
 #### Samba
 ファイル共有の一覧を列挙
 smb-enum-shares.nse
