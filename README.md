@@ -2,7 +2,7 @@
 
 ペネトレーションテスト（Hack the Box, VulnHub）などを行う際に参考にしてください。
 
-アドバイスやミス等ありましたら[Twitter(@さんぽし)](https://twitter.com/sanpo_shiho)までお願いします（PR or issueでももちろんOKです！）
+アドバイスやミス等ありましたら[Twitter(@さんぽし)](https://twitter.com/sanpo_shiho)までお願いします （PR or issueでももちろんOKです！）
 
 This is a cheat sheet in penetration testing.
 Please use it when hacking Hack the Box, VulnHub, etc.
@@ -23,17 +23,28 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 
 ## Windows
 
-- [Invoke-PowerShellTcp(nishang)](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/Invoke-PowerShellTcp)
-- [PowerSploit](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/PowerSploit)
-- [Samba / nfs](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/smb)
-- [winPEAS](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/winPEAS)
-- [windows-exploit-suggester](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/windows-exploit-suggester)
-- [commands](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/windows_commands)
-- [Others](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/other_technic)
+- [Invoke-PowerShellTcp(nishang)](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/Invoke-PowerShellTcp.md)
+- [Invoke-ConPtyShell](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/Invoke-ConPtyShell.md)
+- [commands](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/windows_commands.md)
+- [others](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/other_technic.md)
 
-### tools
+### Privilege Escalation
 
-- [gobuster](https://github.com/sanposhiho/my_cheat_sheet/tree/master/gobuster)
-- [hydra](https://github.com/sanposhiho/my_cheat_sheet/tree/master/hydra)
-- [john_the_ripper](https://github.com/sanposhiho/my_cheat_sheet/tree/master/john_the_ripper)
-- [nmap](https://github.com/sanposhiho/my_cheat_sheet/tree/master/nmap)
+- [Kerberoasting攻撃](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/privilege%20escalation/Kerberoasting.md)
+- [PowerSploit](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/privilege%20escalation/PowerSploit.md)
+- [winPEAS](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/privilege%20escalation/winPEAS.md)
+- [windows-exploit-suggester](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/privilege%20escalation/windows-exploit-suggester.md)
+
+## enumeration
+
+- [gobuster](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/gobuster.md)
+- [hydra](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/hydra.md)
+- [nmap](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/nmap.md)
+- [smb/nfs](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/smb.md)
+- [sqlmap](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/sqlmap.md)
+- [wpscan](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/wpscan.md)
+
+## others
+
+- [john_the_ripper](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/john_the_ripper.md)
+- [reverse_shell](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/reverse_shell.md)
