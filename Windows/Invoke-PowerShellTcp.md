@@ -1,5 +1,9 @@
 # Invoke-PowerShellTcp(nishang)
 
+powershellからreverse shell貼るときに使う
+
+https://github.com/samratashok/nishang/blob/c3fdf5e5dfa8612d0a17636dbb096b04e987ab31/Shells/Invoke-PowerShellTcp.ps1
+
 # Usage
 pythonSimpleHTTPServerをホストで立ててDL&Reverse shell貼るパターン
 
