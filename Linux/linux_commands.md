@@ -35,3 +35,10 @@ https://milestone-of-se.nesuke.com/sv-basic/linux-basic/ss-netstat/
 ```
 ssh -L 10000:localhost:10000 agent47@10.10.149.193
 ```
+
+
+### hex dumpの解析
+
+```
+cat hype_key | xxd -r > result
+```
