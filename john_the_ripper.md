@@ -4,4 +4,6 @@
 
 # Usage
 
-`john --wordlist=/usr/share/wordlists/rockyou.txt pwd.hash`
+```
+john --wordlist=/usr/share/wordlists/rockyou.txt pwd.hash
+```
