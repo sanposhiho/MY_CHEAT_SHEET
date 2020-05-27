@@ -1,6 +1,8 @@
 # nmap
 言わずと知れたNetwork Discoveryツール
 
+[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/6a11a6c670b1e016f1536f01fc690e1bc482bd90/Methodology%20and%20Resources/Network%20Discovery.md#nmap)
+
 ## usage
 
 ```
@@ -18,8 +20,7 @@ nmap -sV -sC -p- 10.10.10.180
 ls /usr/share/nmap/scripts | grep ldap
 ```
 
-### 種類
-#### Samba
+### Samba
 ファイル共有の一覧を列挙
 smb-enum-shares.nse
 https://nmap.org/nsedoc/scripts/smb-enum-shares.html
@@ -28,7 +29,7 @@ https://nmap.org/nsedoc/scripts/smb-enum-shares.html
 smb-enum-users.nse
 https://nmap.org/nsedoc/scripts/smb-enum-users.html
 
-#### nfs
+### nfs
 https://nmap.org/nsedoc/scripts/nfs-ls.html
 
 https://nmap.org/nsedoc/scripts/nfs-showmount.html
