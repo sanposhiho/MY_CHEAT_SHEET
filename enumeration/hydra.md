@@ -9,3 +9,8 @@
 `hydra -L SQL.txt -p pass 10.10.192.4 http-post-form "/index.php:username=^USER^&password=^PASS^&x=30&y=:Incorrect Login" -f`
 - [SQL.txt](https://github.com/xmendez/wfuzz/blob/master/wordlist/Injections/SQL.txt) を使うとSQLiのチェックもできる
 - -fでcredentialが見つかったら処理を止める
+
+## 相性良さげなlist
+tomcatのdefaultpasslist
+- [tomcat-betterdefaultpasslist.txt](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Default-Credentials/tomcat-betterdefaultpasslist.txt)
+- [SQL.txt](https://github.com/xmendez/wfuzz/blob/master/wordlist/Injections/SQL.txt)
