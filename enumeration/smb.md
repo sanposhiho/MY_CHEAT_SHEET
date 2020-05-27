@@ -1,5 +1,11 @@
 # Samba
 
+### smbmap
+
+```
+smbmap -H 10.10.237.52
+```
+
 ### nmap script
 ファイル共有の一覧を列挙
 [smb-enum-shares.nse](https://nmap.org/nsedoc/scripts/smb-enum-shares.html)
