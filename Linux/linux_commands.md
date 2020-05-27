@@ -27,3 +27,11 @@ ss -nltup
 ```
 
 https://milestone-of-se.nesuke.com/sv-basic/linux-basic/ss-netstat/
+
+
+### reverse SSH tunnel
+ファイアーウォールなどにブロックされてるものに接続(正直あんまりわかってない)
+
+```
+ssh -L 10000:localhost:10000 agent47@10.10.149.193
+```
