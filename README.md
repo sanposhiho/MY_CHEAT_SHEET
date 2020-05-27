@@ -47,4 +47,4 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 ## others
 
 - [john_the_ripper](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/john_the_ripper.md)
-- [reverse_shell](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/reverse_shell.md)
+- [reverse_shellまとめ](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/reverse_shell.md)
