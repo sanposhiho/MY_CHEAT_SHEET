@@ -9,13 +9,19 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 
 **悪用厳禁 DO NOT ABUSE**
 
-## 目次（Contents）
+# 目次（Contents）
 
-### Linux
+## Linux
 
-- [commands](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Linux/linux_commands)
+- [commands(一部Kaliのコマンドも含む)](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Linux/linux_commands.md)
 
-### Windows
+### Privilege Escalation
+
+- [linpeas](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Linux/privilege%20escalation/linpeas.md)
+- [linuxprivchecker](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Linux/privilege%20escalation/linuxprivchecker.md)
+- [pspy](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Linux/privilege%20escalation/pspy.md)
+
+## Windows
 
 - [Invoke-PowerShellTcp(nishang)](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/Invoke-PowerShellTcp)
 - [PowerSploit](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/PowerSploit)
