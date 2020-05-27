@@ -6,6 +6,12 @@
 smbmap -H 10.10.237.52
 ```
 
+file列挙
+
+```
+smbmap -R Replication -H 10.10.10.100
+```
+
 ### nmap script
 ファイル共有の一覧を列挙
 [smb-enum-shares.nse](https://nmap.org/nsedoc/scripts/smb-enum-shares.html)
