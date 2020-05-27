@@ -1,5 +1,11 @@
 # Samba
 
+### enum4linux
+
+```
+enum4linux -a 10.10.10.180
+```
+
 ### smbmap
 
 ```
