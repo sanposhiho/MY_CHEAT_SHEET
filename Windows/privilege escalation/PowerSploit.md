@@ -9,8 +9,3 @@ Uploadして実行。
 ```
 powershell.exe -exec bypass -Command “& {Import-Module .\PowerUp.ps1; Invoke-AllChecks}”
 ```
-
-### 実行例
-```
-
-```
