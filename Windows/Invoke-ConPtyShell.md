@@ -1,4 +1,4 @@
-#Invoke-ConPtyShell.ps1
+# Invoke-ConPtyShell.ps1
 Fully interactive reverse shellに張り替える
 
 https://github.com/antonioCoco/ConPtyShell/blob/master/Invoke-ConPtyShell.ps1
