@@ -23,4 +23,9 @@ john --wordlist=/usr/share/wordlists/rockyou.txt active.txt
 ```
 
 
+### 参考になりそう
 [【Hack the Box write-up】Active](https://qiita.com/sanpo_shiho/items/d06f72721b08be016b81#kerberoasting%E6%94%BB%E6%92%83)
+
+[Kerberos Authentication](https://www.infraexpert.com/study/security18.html)
+
+[Active Directory（アクティブディレクトリ）をゼロから解説、関連用語もまとめて紹介](https://www.sbbit.jp/article/cont1/37798)
