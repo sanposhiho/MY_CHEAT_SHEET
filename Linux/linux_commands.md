@@ -28,7 +28,9 @@ ss -nltup
 
 https://milestone-of-se.nesuke.com/sv-basic/linux-basic/ss-netstat/
 
+※FreeBSDではsockstatというコマンドになる
 
+参考：https://news.mynavi.jp/article/20171002-a053/
 ### reverse SSH tunnel
 ファイアーウォールなどにブロックされてるものにsshで接続(正直あんまりわかってない)
 
