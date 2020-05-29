@@ -1,5 +1,5 @@
-# Kali Linux commands
-Kali Linuxでの調査用のコマンド達
+# Kali commands
+Kaliでの調査用のコマンド達
 
 
 ### バイナリ内の可読な部分を抜き出す
