@@ -13,8 +13,7 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 
 ## Linux
 
-- [commands(on kali)](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Linux/kali_commands.md)
-- [commands(on Target machines)](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Linux/linux_commands.md)
+- [commands(一部Kaliのコマンドも含む)](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Linux/linux_commands.md)
 
 ### Privilege Escalation
 
@@ -36,16 +35,17 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 - [winPEAS](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/privilege%20escalation/winPEAS.md)
 - [windows-exploit-suggester](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/privilege%20escalation/windows-exploit-suggester.md)
 
-## enumeration
+## Enumeration
 
+- [nmap](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/nmap.md)
 - [gobuster](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/gobuster.md)
 - [hydra](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/hydra.md)
-- [nmap](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/nmap.md)
 - [smb/nfs](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/smb.md)
 - [sqlmap](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/sqlmap.md)
 - [wpscan](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/wpscan.md)
+- [LFI2RCE](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/LFI2RCE.md)
 
-## others
+## Others
 
 - [Burp Suite](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/BurpSuite.md)
 - [john_the_ripper](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/john_the_ripper.md)
