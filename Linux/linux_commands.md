@@ -6,12 +6,6 @@
 find / -perm -u=s -type f 2>/dev/null
 ```
 
-### バイナリ内の可読な部分を抜き出す
-
-```
-strings file
-```
-
 ### ネットワーク状態確認
 
 ```
@@ -31,16 +25,10 @@ https://milestone-of-se.nesuke.com/sv-basic/linux-basic/ss-netstat/
 ※FreeBSDではsockstatというコマンドになる
 
 参考：https://news.mynavi.jp/article/20171002-a053/
+
 ### reverse SSH tunnel
 ファイアーウォールなどにブロックされてるものにsshで接続(正直あんまりわかってない)
 
 ```
 ssh -L 10000:localhost:10000 agent47@10.10.149.193
-```
-
-
-### hex dumpの解析
-
-```
-cat hype_key | xxd -r > result
 ```
