@@ -15,6 +15,7 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 
 - [commands(on Kali)](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Linux/kali_commands.md)
 - [commands(on Target machines)](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Linux/linux_commands.md)
+- [others](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Linux/other_technic.md)
 
 ### Privilege Escalation
 
