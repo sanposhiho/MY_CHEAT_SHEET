@@ -17,6 +17,12 @@ nmap -sV -sC -p- 10.10.10.180
 nmap 10.10.10.180 --top-ports 10 
 ```
 
+upしてるホストを探す
+
+```
+nmap -sn 10.10.10.10/28
+```
+
 ## nmap scripts
 
 ### script 検索
