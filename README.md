@@ -44,6 +44,7 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 - [hydra](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/hydra.md)
 - [smb/nfs](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/smb.md)
 - [sqlmap](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/sqlmap.md)
+- [CeWL](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/CeWL.md)
 - [wpscan](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/wpscan.md)
 - [LFI2RCE](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/LFI2RCE.md)
 
