@@ -14,3 +14,10 @@ strings file
 ```
 cat hype_key | xxd -r > result
 ```
+
+### base64のencode
+こうしないと最後に余計な`/n`が入っちゃう気がする
+
+```
+tr -d "\n" < test.txt | base64
+```
