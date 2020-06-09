@@ -15,4 +15,6 @@ targets.txtはスキャンしたいIPアドレスのリスト
 
 Hack the Boxでは`Send exiting main didnt connect, exiting: system error Interrupted system call`のエラーでこけるので使用できない
 
+OSCPの試験など、他にも使用できないタイミングがあるぽいので使用のタイミングに注意
+
 ref: https://github.com/superkojiman/onetwopunch/issues/5
