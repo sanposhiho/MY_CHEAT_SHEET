@@ -51,6 +51,8 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 - [wpscan](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/wpscan.md)
 - [LFI2RCE](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/LFI2RCE.md)
 
+- [OneTwoPunch](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/onetwopunch.md)
+
 ## Others
 
 - [Burp Suite](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/BurpSuite.md)
