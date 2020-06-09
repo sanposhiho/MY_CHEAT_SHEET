@@ -40,7 +40,9 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 
 ## Enumeration
 
+- [AutoRecon](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/AutoRecon.md)
 - [nmap](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/nmap.md)
+- [Nikto](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/Nikto.md)
 - [gobuster](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/gobuster.md)
 - [hydra](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/hydra.md)
 - [smb/nfs](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/enumeration/smb.md)
