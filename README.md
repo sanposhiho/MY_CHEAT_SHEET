@@ -2,7 +2,7 @@
 
 ペネトレーションテスト（Hack the Box, VulnHub）などを行う際に参考にしてください。
 
-アドバイスやミス等ありましたら[Twitter(@さんぽし)](https://twitter.com/sanpo_shiho)までお願いします （PR or issueくれてもええんやで
+アドバイスやミス等ありましたら[Twitter(@さんぽし)](https://twitter.com/sanpo_shiho)までお願いします （PR or issueでも勿論OKです！）
 
 This is a cheat sheet in penetration testing.
 Please use it when hacking Hack the Box, VulnHub, etc.
@@ -37,6 +37,10 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 - [PowerSploit](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/privilege%20escalation/PowerSploit.md)
 - [winPEAS](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/privilege%20escalation/winPEAS.md)
 - [windows-exploit-suggester](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/privilege%20escalation/windows-exploit-suggester.md)
+
+### Kernel Exploits
+
+- [MS09-012](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/privilege%20escalation/Kernel%20Exploits/MS09-012.md)
 
 ## Enumeration
 
