@@ -26,9 +26,10 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 
 ## Windows
 
-- [commands](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/windows_commands.md)
 - [Invoke-PowerShellTcp(nishang)](https://github.com/sanposhiho/my_cheat_sheet/tree/master/Windows/Invoke-PowerShellTcp.md)
 - [Invoke-ConPtyShell](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/Invoke-ConPtyShell.md)
+- [FileUpload](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/FileUpload.md)
+- [commands](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/windows_commands.md)
 - [others](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/other_technic.md)
 
 ### Privilege Escalation
