@@ -3,7 +3,7 @@
 ### fully interactive shell
 
 ```
-python3 -c 'import pty; pty.spawn("/bin/sh")'
+python3 -c 'import pty; pty.spawn("/bin/bash")'
 ```
 
 ### SUIDなファイルを探す
