@@ -1,5 +1,11 @@
 # Linux commands
 
+### fully interactive shell
+
+```
+python3 -c 'import pty; pty.spawn("/bin/sh")'
+```
+
 ### SUIDなファイルを探す
 
 ```
