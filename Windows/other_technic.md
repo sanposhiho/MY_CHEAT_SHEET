@@ -18,3 +18,22 @@
 - SeLoadDriverPrivilege
 - SeTakeOwnershipPrivilege
 - SeDebugPrivilege
+
+### fileの権限
+dirの権限を持っていればdir内のfileの権限を変更可能
+
+権限の確認
+
+```
+icacls file_name
+```
+
+権限の変更
+
+```
+icacls root.txt /grant username:F
+```
+
+(F = full access) ※権限周りは[これ](https://docs.microsoft.com/ja-jp/windows-server/administration/windows-commands/icacls)を参照
+
+参考: https://qiita.com/sanpo_shiho/items/1857c837b079a7a75db0#pe
