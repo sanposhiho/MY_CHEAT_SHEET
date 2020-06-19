@@ -10,3 +10,4 @@ gobuster dir -u http://10.10.10.14 -w /usr/share/wordlists/dirbuster/directory-l
 
 - /usr/share/dirb/wordlists/big.txt
 - SecLists/Discovery/Web-Content/big.txt
+- SecLists/Discovery/Web-Content/common.txt
