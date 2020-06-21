@@ -9,4 +9,10 @@
 python3 autorecon.py 10.10.10.15
 ```
 
+もしくは
+
+```
+autorecon 10.10.10.15
+```
+
 結果は`./results`に出力される
