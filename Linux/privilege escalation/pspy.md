@@ -6,3 +6,7 @@ https://github.com/DominicBreuker/pspy
 # Usage
 
 Uploadして実行
+
+```
+./pspy64 -i 1000
+```
