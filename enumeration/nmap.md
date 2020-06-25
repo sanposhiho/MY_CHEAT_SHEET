@@ -7,8 +7,8 @@
 （下は時間がかかるのであまり使わない（が、見逃しが発生するので下もちゃんと実行したほうが良い））
 
 ```
-nmap -sV -sC 10.10.10.180
-nmap -sV -sC -p- 10.10.10.180
+nmap -sV -sC -T4 -v 10.10.10.180
+nmap -sV -sC -T4 -v -p- 10.10.10.180
 ```
 
 素早さ重視（ftp, ssh, telnet, smtp, http, POP3, netbios-ssn, https, microsoft-ds, ms-wbt-serverのみスキャン）
