@@ -31,6 +31,7 @@ Please use it when hacking Hack the Box, VulnHub, etc.
 - [ASREPRoast](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/ASREPRoast.md)
 - [BloodHound](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/BloodHound.md)
 - [FileUpload](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/FileUpload.md)
+- [PsExec](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/PsExec.md)
 - [commands](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/windows_commands.md)
 - [others](https://github.com/sanposhiho/MY_CHEAT_SHEET/blob/master/Windows/other_technic.md)
 
