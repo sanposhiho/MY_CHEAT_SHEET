@@ -29,3 +29,5 @@ john --wordlist=/usr/share/wordlists/rockyou.txt active.txt
 [Kerberos Authentication](https://www.infraexpert.com/study/security18.html)
 
 [Active Directory（アクティブディレクトリ）をゼロから解説、関連用語もまとめて紹介](https://www.sbbit.jp/article/cont1/37798)
+
+[Kerberos cheatsheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a)
