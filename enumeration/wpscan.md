@@ -16,6 +16,11 @@ apitokenはここから確認
 https://wpvulndb.com/users/edit
 
 
+ユーザーのenum
+
+```
+wpscan --url http://10.10.10.10 --enumerate u
+```
 
 見つかったUserに対してパスワードのbruteforce
 
