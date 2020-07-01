@@ -9,8 +9,13 @@ https://github.com/wpscanteam/wpscan
 一気に色々スキャン
 
 ```
-wpscan --url http://10.10.10.10
+wpscan --url http://10.10.10.10 --api-token ***********************
 ```
+
+apitokenはここから確認
+https://wpvulndb.com/users/edit
+
+
 
 見つかったUserに対してパスワードのbruteforce
 
