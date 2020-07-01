@@ -9,7 +9,7 @@ https://github.com/wpscanteam/wpscan
 一気に色々スキャン
 
 ```
-wpscan -u http://10.10.10.10
+wpscan --url http://10.10.10.10
 ```
 
 見つかったUserに対してパスワードのbruteforce
