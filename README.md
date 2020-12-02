@@ -1,6 +1,6 @@
 # MY CHEAT SHEET(Only Japanese)
 
-ペネトレーションテスト（Hack the Box, VulnHub）などを行う際に参考にしてください。
+ペネトレーションテストの練習（Hack the Box, VulnHub）等を行う際に参考にしてください。
 
 アドバイスやミス等ありましたら[Twitter(@さんぽし)](https://twitter.com/sanpo_shiho)までお願いします （PR or issueでも勿論OKです！）
 
